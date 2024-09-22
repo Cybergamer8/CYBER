@@ -12,7 +12,7 @@ client.on('ready', async () => {
     console.log(`${client.user.tag} - rich presence started!`);
 
     const r = new Discord.RichPresence()
-        .setApplicationId('1099642415754776628')
+        .setApplicationId('1165284906054729738')
         .setType('STREAMING')
         .setURL('https://twitch.tv/cyber_winner')
         .setState('UID - 1803102972')
